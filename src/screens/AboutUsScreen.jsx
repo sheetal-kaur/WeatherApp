@@ -5,7 +5,7 @@ const teamMembers = [
     name: "Sheetal Kaur",
     rollNumber: "2224939",
     className: "BCA",
-    branch: "Information Technology",
+    branch: "Computer Application",
     photo:
       "https://cdn.pixabay.com/photo/2023/02/18/11/00/icon-7797704_1280.png",
   },
@@ -13,15 +13,15 @@ const teamMembers = [
     name: "Jaspreet Kaur",
     className: "BCA",
     rollNumber: "2224902",
-    branch: "Information Technology",
+    branch: "Computer Application",
 
     photo:
       "https://cdn.pixabay.com/photo/2023/02/18/11/00/icon-7797704_1280.png",
   },
   {
-    name: "Muskan",
+    name: "Muskan Ansari",
     className: "BCA",
-    branch: "Information Technology",
+    branch: "Computer Application",
     rollNumber: "2224913",
     photo:
       "https://cdn.pixabay.com/photo/2023/02/18/11/00/icon-7797704_1280.png",
