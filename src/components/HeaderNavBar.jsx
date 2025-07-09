@@ -10,7 +10,6 @@ import {
 } from "@headlessui/react";
 
 import SearchIcon from "@mui/icons-material/Search";
-import logo from "../assets/react.svg";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 
